@@ -25,4 +25,4 @@
   ![Animação de cobra](https://github.com/Heyder-Andrade/Heyder-Andrade/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+(https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
